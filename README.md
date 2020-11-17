@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic Tac Toe Game Use CLI
+Tic Tac Toe Game CLI Python
 
 Projek ini dibuat oleh Jonathan Darius
 
